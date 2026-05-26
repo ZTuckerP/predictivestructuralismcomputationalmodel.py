@@ -23,4 +23,4 @@ git clone [https://github.com/ZTuckerPerry/predictive-structuralism-model.git](h
 cd predictive-structuralism-model
 
 # Run the simulation
-python predictivestructuralismcomputationalmodel.py
+python predictivestructuralismcomputationalmodel.py  
