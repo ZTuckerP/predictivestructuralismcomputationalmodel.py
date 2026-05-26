@@ -2,6 +2,8 @@
 An official PyTorch implementation and computation of Predictive Structuralism: Dual-system cerebro-cerebellar architecture modeling utilizing the Smith Predictor to solve for temporal sequencing as well as the energy costs of neuroplasticity.
 # Predictive Structuralism: A Cerebro-Cerebellar State-Space Model
 
+https://doi.org/10.5281/zenodo.20402919
+
 This repository contains the official PyTorch computational implementation of **Predictive Structuralism**, demonstrating the cerebro-cerebellar loop as a biological Smith Predictor. 
 
 By simulating the hierarchical temporal sequencing that was required for Acheulean cognitive tasks, this model demonstrates mathematically that the cerebral cortex relies on a hidden cerebellar structural engine for decoupling sensorimotor feedback delays and for minimizing the metabolic cost.
