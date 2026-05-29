@@ -1,0 +1,10 @@
+Results: 
+
+--- PARADIGM 1: Hierarchical Acheulean Sequence Training ---
+Epoch 5 | Dual-System Loss: 40.2656 | Cortical Energy (Grad Norm): 20.2984
+Epoch 10 | Dual-System Loss: 38.2117 | Cortical Energy (Grad Norm): 5.9842
+Epoch 15 | Dual-System Loss: 36.4469 | Cortical Energy (Grad Norm): 8.2809
+Epoch 20 | Dual-System Loss: 34.6657 | Cortical Energy (Grad Norm): 7.4349
+
+--- PARADIGM 2: Ablation / Simulating Dysmetria of Thought (CCAS) ---
+Ablation Epoch | Cortex-Only Loss: 24.9477 | Cortical Energy (Grad Norm): 23.1987
